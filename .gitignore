@@ -1,0 +1,10 @@
+/node_modules
+
+# lock files
+/package-lock.json
+
+# nx cache
+.nx
+
+# DS store
+.DS_Store
